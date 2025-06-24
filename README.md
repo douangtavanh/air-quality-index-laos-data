@@ -4,7 +4,7 @@
 
 ## About
 
-The data is obtained in every 15 minutes from [AirGradient](https://www.airgradient.com) with the contribution from [UNICEF Lao PDR](https://www.unicef.org/laos/).
+The data is obtained in every 10 minutes (start from 24 June 2025) from [AirGradient](https://www.airgradient.com) with the contribution from [UNICEF Lao PDR](https://www.unicef.org/laos/).
 
 You can visit the real-time data on [AirGradient Map](https://www.airgradient.com/map/).
 
