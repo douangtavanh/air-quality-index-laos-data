@@ -67,3 +67,7 @@ Learn more about this project: [**Real-Time Air Monitoring Launches in Schools \
 **publicContributorName** [`character`]: The public name of the contributor.
 
 **publicPlaceUrl** [`character`]: The URL of the public place.
+
+## NOTE
+
+* The data on 16-17 OCT 2025 has some missing value as the output data was empty after obtaining the data from the API. The problem is that the name of public contributor, used for filtering the location,  was changed. Later, I fixed it by using other value for filtering.
